@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1759880847 source:d:\informatika\pakdwi\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1759755635 source:d:\informatika\pakdwi\src\biodata.cpp
+	"biodata.h"
+
+1759755635 d:\informatika\pakdwi\include\biodata.h
+
+1759881945 source:d:\informatika\pakdwi\penjumalahan.c
+	<stdio.h>
+

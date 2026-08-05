@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1760577650 source:d:\informatika\bahasac\main.c
+	<stdio.h>
+	<stdlib.h>
+
